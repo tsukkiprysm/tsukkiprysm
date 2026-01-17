@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on an University project!
-- 🌱 I’m currently learning HTML, CSS and Bootstrap
+- 🌱 I’m currently learning Front-end Development
 <!--
 **tsukkiprysm/tsukkiprysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
