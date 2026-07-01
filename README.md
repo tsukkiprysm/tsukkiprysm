@@ -1,17 +1,18 @@
-## Hi there 👋
-- 🔭 I’m currently working on an University project!
-- 🌱 I’m currently learning Front-end Development
-<!--
-**tsukkiprysm/tsukkiprysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                                           
+   ▄▄▄  ▄▄▄       ▄▄ ▄▄        ▄▄     ▄▄▄▄▄▄               ▄   ▄▄▄▄                     ▄▄ 
+  █▀██  ██         ██ ██       ██    █▀ ██   ▄             ▀██████▀                     ██ 
+    ██  ██         ██ ██       ██       ██   ▀  ▄            ██   ▄ ▄                ▀▀ ██ 
+    ██████   ▄█▀█▄ ██ ██ ▄███▄ ██       ██      ███▄███▄     ██  ██ ████▄▄▀▀█▄ ▀▀▀██ ██ ██ 
+    ██  ██   ██▄█▀ ██ ██ ██ ██          ██      ██ ██ ██     ██  ██ ██   ▄█▀██   ▄█▀ ██    
+  ▀██▀  ▀██▄▄▀█▄▄▄▄██▄██▄▀███▀ ██     ▄▄██▄▄   ▄██ ██ ▀█     ▀█████▄█▀  ▄▀█▄██▄▄██▄▄▄██ ██ 
+                                                             ▄   ██                        
+                                                             ▀████▀                        
+--------------------------------------------------------------------------------------------
+                                                          
+## About me!
 
-Here are some ideas to get you started:
+I'm a junior full-stack web developer! Currently in the final year of my BSc Degree as a Multimedia and Communication Techonologies student! I'm an ethusiast of giving life to creative projects, and there is no better way to do that than coding, it's always a pleasure to create something from design to functionality, and I also have a little experience making digital games, pretty cool. Be pixelart or aethetically pleasing UI, background music and game OST, complex solutions using code, I put a little bit of my passions in every project I design <3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interested in talking? Contact me!
+
+
