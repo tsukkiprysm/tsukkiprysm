@@ -2,7 +2,8 @@
                                                           
 ## About me!
 
-I'm a junior full-stack web developer! Currently in the final year of my BSc Degree as a Multimedia and Communication Techonologies student! I'm an ethusiast of giving life to creative projects, and there is no better way to do that than coding, it's always a pleasure to create something from design to functionality, and I also have a little experience making digital games, pretty cool. Be pixelart or aethetically pleasing UI, background music and game OST, complex solutions using code, I put a little bit of my passions in every project I design <3
+I'm a junior full-stack web developer, currently in my final year of a BSc in Multimedia and Communication Technologies. I love bringing creative projects to life, and coding is my favorite way to do it. There's nothing like building something from design all the way to functionality. I also have some experience making digital games, which is pretty cool.
+Whether it's pixel art, aesthetically pleasing UI, background music, game OSTs, or complex code-based solutions, I put a piece of my passions into every project I create. <3
 
 ## Interested in talking? Contact me!
 
