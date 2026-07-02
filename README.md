@@ -12,7 +12,7 @@ Whether it's pixel art, aesthetically pleasing UI, background music, game OSTs, 
 ### Languages  
 <a href="https://github.com/tsukkiprysm">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,cs,git,mysql,php&perline=5" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,git&perline=4" /> 
 </div>
 </a>
 
@@ -24,3 +24,8 @@ Whether it's pixel art, aesthetically pleasing UI, background music, game OSTs, 
        <img src="https://skillicons.dev/icons?i=figma,blender,unity,github,notion,ps,phpstorm,visualstudio,wordpress&perline=5" /> 
 </div>
 </a>
+</td>
+</tr></table>
+
+## Learning
+<img src="https://skillicons.dev/icons?i=ts,tailwind,mysql,php" />
